@@ -1,6 +1,6 @@
 <form action="portfolio.html" method="post">
     <div class="Name">
-      <label for="name">Name</label>
+      <label for="name">Neeraj</label>
       <input type="text" id="name" name="my_name" placeholder="S.Neeraj" pattern=[A-Z\sa-z]{3,20} required>
     </div>
     <div class="Email">
