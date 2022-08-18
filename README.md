@@ -45,6 +45,9 @@
      <div class="projects">
         <label for ="projects">projects</label>
         <select id="projects" name="classification of diabetic retinopathy using CNN and deep learning" required>
+            <option value ="year">2nd year BTech</option>
+            <option value ="">project name</option>
+            <option value ="">classification of diabetic retinopathy using CNN and deep learning</option>
         </select>
     
   </form>
