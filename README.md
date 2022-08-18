@@ -42,5 +42,9 @@
             <option value="course">cse</option>
             <option value="Aim">FullStackDevelopment</option>
         </select>
+     <div class="projects">
+        <label for ="projects">projects</label>
+        <select id="projects" name="classification of diabetic retinopathy using CNN and deep learning" required>
+        </select>
     
   </form>
